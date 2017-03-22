@@ -7,6 +7,8 @@ as particle-reinforced composites, ceramics, powders or open-cell foams. These m
 can be employed, for example, to analyse the relation between microstructure and 
 overall mechanical, electrical or thermal properties by numerical simulations.
 
+![Exemplary microstructure models](Mote3D_main/images/icon48.png "Examples")
+
 The Mote3D toolbox works by randomly positioning spherical particles with user-defined 
 minimum inter-particle distance in a cubical computational domain. The generated 
 microstructure models can be exported in different formats, either as lists of particle 
