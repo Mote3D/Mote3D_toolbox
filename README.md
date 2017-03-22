@@ -15,3 +15,5 @@ or regular hexahedral meshes (*voxel meshes*) in the commercial finite-element s
 Abaqus&#8482; or similar preprocessors.
 
 Mote3D requires [GNU Octave](http://www.gnu.org/software/octave/download.html). T
+
+[Mote3D User Guide](./Mote3D_main/Mote3D User Guide.pdf) 
