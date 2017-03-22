@@ -13,3 +13,5 @@ microstructure models can be exported in different formats, either as lists of p
 centre coordinates and radii or as input scripts for generating solid geometric models 
 or regular hexahedral meshes (*voxel meshes*) in the commercial finite-element software
 Abaqus&#8482; or similar preprocessors.
+
+Mote3D requires [GNU Octave](www.gnu.org/software/octave/download). T
