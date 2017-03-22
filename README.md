@@ -1,3 +1,5 @@
+## Mote3D
+
 Mote3D is an open-source software toolbox for the generation of random particulate 
 microstructure models with periodic boundaries. Mote3D can be used to generate models 
 that represent the microstructure of various inhomogeneous engineering materials such 
