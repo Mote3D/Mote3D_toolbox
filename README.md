@@ -5,7 +5,7 @@ microstructure models with periodic boundaries. Mote3D can be used to generate m
 that represent the microstructure of various inhomogeneous engineering materials such 
 as particle-reinforced composites, ceramics, powders or open-cell foams. These models 
 can be employed, for example, to analyse the relation between microstructure and 
-overall mechanical, electrical or thermal properties by numerical simulations.
+overall mechanical, electrical or thermal properties by virtual material testing.
 
 ![Exemplary microstructure models](docs/examples/microstructures.jpg "Microstructure models")
 
