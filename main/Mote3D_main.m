@@ -37,8 +37,8 @@
 ## The following input variables need to be specified at start-up:@*
 ## @var{box_length} : edge length of the cubical domain@*
 ## @var{n_total}    : total number of particles@*
-## @var{D_mean}     : mean of paticle diameter distribution@*
-## @var{D_sdev}     : standard deviation of paticle diameter distribution@*
+## @var{D_mean}     : mean of particle diameter distribution@*
+## @var{D_sdev}     : standard deviation of particle diameter distribution@*
 ## @var{o_f}        : particle overlap factor@*
 ## @var{maxtrials}  : maximum number of positioning trials@*
 ## @var{sortstr}    : request sorting of the list of particle diameters@*
