@@ -16,6 +16,8 @@ centre coordinates and radii or as input scripts for generating solid geometric 
 or regular hexahedral meshes (*voxel meshes*) in the commercial finite-element software
 Abaqus&#8482; or similar preprocessors.
 
+![Mesh options](docs/examples/meshes.jpg "Mesh options")
+
 Mote3D requires [GNU Octave](http://www.gnu.org/software/octave/download.html). Additional
 information on how to set up and run Mote3D can be found in the [Mote3D User Guide](docs/Mote3D%20User%20Guide.pdf). 
 Further details on the implementation and some case studies are outlined in [this paper](https://doi.org/10.1088/1361-651X/aa629a).
