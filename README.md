@@ -3,14 +3,11 @@
 Mote3D is an adaptable open-source software toolbox for the generation of random particulate 
 microstructure models with periodic boundaries. Mote3D can be used to generate models 
 that represent the microstructure of various inhomogeneous engineering materials such 
-as particle-reinforced composites, ceramics, powders or open-cell foams. These models 
+as particle-reinforced composites, ceramics, powders or open-cell foams, see examples in Fig. [Exemplary microstructure models] . These models 
 can be employed, for example, to analyse the relation between microstructure and 
 overall mechanical, electrical or thermal properties by virtual material testing.
 
 ![Exemplary microstructure models](docs/examples/microstructures.jpg "Exemplary microstructure models")
-
-{:.image-caption}
-*The caption for my image*
 
 The Mote3D toolbox works by randomly positioning spherical particles with user-defined 
 minimum inter-particle distance in a cubical computational domain. The generated 
