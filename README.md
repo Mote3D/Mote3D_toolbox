@@ -8,6 +8,7 @@ can be employed, for example, to analyse the relation between microstructure and
 overall mechanical, electrical or thermal properties by virtual material testing.
 
 ![Exemplary microstructure models](docs/examples/microstructures.jpg "Exemplary microstructure models")
+
 {:.image-caption}
 *The caption for my image*
 
