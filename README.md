@@ -12,7 +12,8 @@ overall mechanical, electrical or thermal properties by virtual material testing
 ![Exemplary microstructure models](docs/examples/microstructures.jpg "Exemplary microstructure models")
 
 The Mote3D toolbox works by randomly positioning spherical particles with user-defined 
-minimum inter-particle distance in a cubical computational domain. The generated microstructure models can be exported in different formats, either as lists of particle 
+minimum inter-particle distance in a cubical computational domain. The generated 
+microstructure models can be exported in different formats, either as lists of particle 
 centre coordinates and radii or as input scripts for generating solid geometric models 
 or regular hexahedral meshes (*voxel meshes*) in the commercial finite-element software
 Abaqus&#8482; or similar preprocessors.
