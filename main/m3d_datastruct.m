@@ -29,7 +29,7 @@
 ## @end deftypefn
 ## @cindex m3d_datastruct
 
-## Author: Henning Richter <henning.richter@dlr.de>
+## Author: Henning Richter <mote3d@quantentunnel.de>
 ## Created: April 2016
 ## Keywords: data structure, random periodic microstructure
 
