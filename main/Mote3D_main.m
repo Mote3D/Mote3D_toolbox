@@ -1,4 +1,4 @@
-## Copyright (C) 2016 Henning Richter
+## Copyright (C) 2016 Henning Richter <mote3d@quantentunnel.de>
 ##
 ## This is the main script of the 'Mote3D' toolbox for microstructure modelling.
 ##
