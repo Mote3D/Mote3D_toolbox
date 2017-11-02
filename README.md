@@ -1,6 +1,6 @@
 ## Mote3D
 
-UPDATE: Interface for geometry export to Ansys DesignModeler available, please inquire.
+UPDATE: Interface for geometry export to Ansys&#8482; DesignModeler available, please inquire.
 
 [![DOI](https://zenodo.org/badge/doi/10.1088/1361-651X/aa629a.svg)](http://doi.org/10.1088/1361-651X/aa629a)
 
