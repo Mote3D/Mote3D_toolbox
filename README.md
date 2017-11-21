@@ -33,7 +33,7 @@ Mote3D is licensed under the [GNU General Public License](LICENSE.txt).
 <form id="ctcfrm" method="POST">
   <input name="email" type="email" placeholder="Your email">
   <textarea name="message" placeholder="Your message">Your message</textarea>
-  <button type="submit">Send</button>
+  <button type="submit"></button>
   <input type="hidden" name="_subject" value="MOTE3D" />
   <input type="text" name="_gotcha" style="display:none" />
 </form>
