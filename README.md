@@ -33,5 +33,5 @@ Mote3D is licensed under the [GNU General Public License](LICENSE.txt).
 <form action="http://formspree.io/YOUREMAILHERE" method="POST">
   <input name="email" type="email" placeholder="Your email">
   <textarea name="message" placeholder="Your message">Your message</textarea>
-  <button type="submit">Send</button>
+  <button type="submit"></button>
 </form>
