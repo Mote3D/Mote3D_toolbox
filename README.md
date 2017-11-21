@@ -28,9 +28,3 @@ information on how to set up and run Mote3D can be found in the [Mote3D User Gui
 Further details on the implementation and some case studies are outlined in [this paper](https://doi.org/10.1088/1361-651X/aa629a).
 
 Mote3D is licensed under the [GNU General Public License](LICENSE.txt).
-
-
-<form action="http://formspree.io/YOUREMAILHERE" method="POST">
-  <input name="email" type="email" placeholder="Your email">
-  <button type="submit"></button>
-</form>
