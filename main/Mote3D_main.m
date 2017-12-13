@@ -231,7 +231,7 @@ fprintf(fi1,"Actual minimum particle overlap factor: %4.5f\n", o_f_min);
 fprintf(fi1,"\n");
 fclose(fi1);
 
-## Generate input file for external CAE-based analyses:
+## Generate input data for external CAE-based analyses:
 dbound = 2*max(R_vec(:,2));
 P_ind = P_mat(P_mat(:,2) > (box_length-dbound) & P_mat(:,3) > (box_length-dbound) & P_mat(:,4) > (box_length-dbound) & ...
               P_mat(:,2) < (2*box_length+dbound) & P_mat(:,3) < (2*box_length+dbound) & P_mat(:,4) < (2*box_length+dbound), 1);
@@ -246,44 +246,13 @@ P_mat_ind(:,1) = (1:1:length(PR_mat(:,1)))';
 R_vec_ind(:,2) = PR_mat(:,4);
 R_vec_ind(:,1) = (1:1:length(PR_mat(:,1)))';
 
-## Define output format:
-usprom = sprintf("Please choose an output format for the export to external CAE software!\n'Input script': Create Abaqus(TM) CAE input script.\n'Voxel mesh': Create Abaqus(TM) CAE voxel mesh.");
-uschc = questdlg(usprom, "Mote3D output format", "Voxel mesh", "Input script", "Cancel", "Cancel");
-
-termflag = 0;
-switch (uschc)
-  case "Input script"
-    disp("Generating input script...");
-    [termflag] = m3d_inputgen(P_mat_ind, R_vec_ind, box_length, termflag);
-    if (termflag == 1)
-      disp("Input script generated.");
-    endif
-  case "Voxel mesh"
-    vxvar = {"Number of elements on each edge:",
-             "Abaqus(TM) CAE element type:\n(C3D8, C3D8R, C3D20 or C3D20R)"};
-    vxdflt = {"50", "C3D8"};
-    vxstr = cell(2,1);
-    vxstr = inputdlg(vxvar, "Mote3D voxel mesh generation", 1, vxdflt);
-    if (isempty(vxstr))
-      disp("Program cancelled.");
-      return;
-    endif
-    while ((sum(cellfun("isempty", vxstr)) > 0) || ...
-           (isscalar(str2num(vxstr{1})) == 0) || ...
-           (sum(strcmp(vxstr{2}, {'C3D8', 'C3D8R', 'C3D20', 'C3D20R'})) == 0))
-      warndlg("Please check input!", "Warning");
-      vxstr = inputdlg(vxvar, "Mote3D voxel mesh generation", 1, vxdflt);
-    endwhile
-    el_number = uint32(str2num(vxstr{1}));
-    el_type = vxstr{2};
-    disp("Generating voxel mesh...");
-    [termflag] = m3d_vxmesh(P_mat_ind, R_vec_ind, box_length, el_number, el_type, termflag);
-    if (termflag == 1)
-      disp("Voxel mesh generated.");
-    endif
-  otherwise
-    disp("Program terminated.");
-endswitch
+## Save data:
+fi2 = fopen("pmat.bin", "w");
+fwrite(fi2, P_mat_ind, "double");
+fclose(fi2);
+fi3 = fopen("rvec.bin", "w");
+fwrite(fi3, R_vec_ind, "double");
+fclose(fi3);
 
 ## Plot particulate microstructure:
 if (plotstr == 'y')
