@@ -4,6 +4,7 @@
 [![latest release](https://img.shields.io/github/release/Mote3D/Mote3D_toolbox.svg)](http://github.com/Mote3D/Mote3D_toolbox/releases/tag/v2.1)
 [![downloads](https://img.shields.io/github/downloads/Mote3D/Mote3D_toolbox/latest/total.svg)](http://github.com/Mote3D/Mote3D_toolbox/releases/tag/v2.1)
 [![counter](https://img.shields.io/github/search/Mote3D/Mote3D_toolbox/goto.svg)](http://github.com/Mote3D/Mote3D_toolbox)
+[![HitCount](http://hits.dwyl.com/Mote3D/Mote3D_toolbox.svg)](http://hits.dwyl.com/Mote3D/Mote3D_toolbox)
 
 Update: Interface for geometry export to Ansys&#8482; DesignModeler as well as STEP and IGES is available, please inquire for details.
 
