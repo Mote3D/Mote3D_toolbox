@@ -2,7 +2,7 @@
 
 [![doi](https://img.shields.io/badge/doi-10.1088%2F1361--651X%2Faa629a-blue.svg)](http://doi.org/10.1088/1361-651X/aa629a)
 [![latest release](https://img.shields.io/github/release/Mote3D/Mote3D_toolbox.svg)](http://github.com/Mote3D/Mote3D_toolbox/releases/tag/v2.1)
-[![downloads](https://img.shields.io/github/downloads/Mote3D/Mote3D_toolbox/latest/total.svg)](http://github.com/Mote3D/Mote3D_toolbox/releases/tag/v2.1)
+[![downloads](https://img.shields.io/github/downloads/Mote3D/Mote3D_toolbox/total.svg)](http://github.com/Mote3D/Mote3D_toolbox/releases/tag/v2.1)
 [![counter](https://img.shields.io/github/search/Mote3D/Mote3D_toolbox/goto.svg)](http://github.com/Mote3D/Mote3D_toolbox)
 [![HitCount](http://hits.dwyl.com/Mote3D/Mote3D_toolbox.svg)](http://hits.dwyl.com/Mote3D/Mote3D_toolbox)
 
