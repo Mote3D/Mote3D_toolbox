@@ -8,7 +8,7 @@
 Update: Interface for geometry export to Ansys&#8482; DesignModeler as well as STEP and IGES is available, please inquire for details.
 
 Mote3D is an adaptable, easy-to-use open-source software toolbox for the generation of random particulate 
-microstructure models with periodic boundaries. Mote3D can be used to generate models 
+microstructure models with periodic boundaries. Mote3D can be used to generate virtual models 
 that represent the microstructure of various inhomogeneous engineering materials such 
 as particle-reinforced composites, partially sintered ceramics, powders, open-cell foams or 
 concrete aggregates, as well as of certain biomaterials or scaffolds. These models can be 
