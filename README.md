@@ -11,7 +11,7 @@ Mote3D is an adaptable, easy-to-use open-source software toolbox for the generat
 microstructure models with periodic boundaries. Mote3D can be used to generate models 
 that represent the microstructure of various inhomogeneous engineering materials such 
 as particle-reinforced composites, partially sintered ceramics, powders, open-cell foams or 
-concrete aggregates as well as of certain biomaterials or scaffolds. These models can be 
+concrete aggregates, as well as of certain biomaterials or scaffolds. These models can be 
 employed, for example, to analyse the relation between microstructure and overall mechanical, 
 electrical or thermal properties by virtual material testing.
 
