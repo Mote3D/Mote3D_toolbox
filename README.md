@@ -31,9 +31,9 @@ microstructure models such as particle diameter distribution and nearest neighbo
 
 Mote3D requires [GNU Octave](http://www.gnu.org/software/octave/download.html). Download the [latest release](https://github.com/Mote3D/Mote3D_toolbox/releases) of Mote3D and unpack the folder to the [GNU Octave](http://www.gnu.org/software/octave/download.html) working directory. Additional information on how to set up and run Mote3D can be found in the [Mote3D User Guide](docs/Mote3D%20User%20Guide.pdf).
 
-#### Usage
+#### Documentation
 
-Further details on the implementation and some case studies are outlined in [this paper](https://doi.org/10.1088/1361-651X/aa629a).
+Further details on the implementation and some case studies are outlined in [this paper](https://doi.org/10.1088/1361-651X/aa629a). Additional examples are given in the Mote3D [wiki](https://github.com/Mote3D/Mote3D_toolbox/wiki).
 
 #### License
 
