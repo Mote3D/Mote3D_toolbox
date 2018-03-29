@@ -33,4 +33,6 @@ Mote3D requires [GNU Octave](http://www.gnu.org/software/octave/download.html). 
 information on how to set up and run Mote3D can be found in the [Mote3D User Guide](docs/Mote3D%20User%20Guide.pdf). 
 Further details on the implementation and some case studies are outlined in [this paper](https://doi.org/10.1088/1361-651X/aa629a).
 
-Mote3D is licensed under the [GNU General Public License](LICENSE.txt).
+#### License
+
+Mote3D is licensed under the [GNU General Public License](https://github.com/Mote3D/Mote3D_toolbox/blob/master/LICENSE.txt).
