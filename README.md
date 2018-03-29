@@ -5,11 +5,13 @@
 
 ##### Update: new release coming soon.
 
+#### Description
+
 Mote3D is an adaptable, easy-to-use open-source software toolbox for the generation of random particulate 
 microstructure models with periodic boundaries. Mote3D can be used to generate virtual models 
 that represent the microstructure of various inhomogeneous engineering materials such 
 as particle-reinforced composites, partially sintered ceramics, powders, open-cell foams or 
-concrete aggregates, as well as of certain biomaterials or scaffolds. These models can be 
+concrete aggregates, as well as of certain nanomaterials, biomaterials or scaffolds. These models can be 
 employed, for example, to analyse the relation between microstructure and overall mechanical, 
 electrical or thermal properties by virtual material testing.
 
@@ -25,7 +27,9 @@ microstructure models such as particle diameter distribution and nearest neighbo
 
 ![Mesh options](docs/examples/meshes.jpg "Mesh options")
 
-Mote3D requires [GNU Octave](http://www.gnu.org/software/octave/download.html). Additional
+#### Installation
+
+Mote3D requires [GNU Octave](http://www.gnu.org/software/octave/download.html). Download the [latest release](https://github.com/Mote3D/Mote3D_toolbox/releases) of Mote3D and unpack the folder to the [GNU Octave](http://www.gnu.org/software/octave/download.html) working directory. Additional
 information on how to set up and run Mote3D can be found in the [Mote3D User Guide](docs/Mote3D%20User%20Guide.pdf). 
 Further details on the implementation and some case studies are outlined in [this paper](https://doi.org/10.1088/1361-651X/aa629a).
 
