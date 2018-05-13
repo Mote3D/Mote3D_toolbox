@@ -27,6 +27,16 @@ microstructure models such as particle diameter distribution and nearest neighbo
 
 ![Mesh options](docs/examples/meshes.jpg "Mesh options")
 
+#### License
+
+Mote3D is licensed under the [GNU General Public License](https://github.com/Mote3D/Mote3D_toolbox/blob/master/LICENSE.txt).
+
+#### Reference
+
+If you use Mote3D for your (research) work, please cite the following publication:
+
+*Richter, Henning (2017) Mote3D: an open-source toolbox for modelling periodic random particulate microstructures. Modelling Simul. Mater. Sci. Eng. **25** (3), 035011, [doi: 10.1088/1361-651X/aa629a](https://doi.org/10.1088/1361-651X/aa629a).*
+
 #### Installation
 
 Mote3D requires [GNU Octave](http://www.gnu.org/software/octave/download.html). Download the [latest release](https://github.com/Mote3D/Mote3D_toolbox/releases) of Mote3D and unpack the folder to the [GNU Octave](http://www.gnu.org/software/octave/download.html) working directory. Additional information on how to set up and run Mote3D can be found in the [Mote3D User Guide](docs/Mote3D%20User%20Guide.pdf).
@@ -35,6 +45,3 @@ Mote3D requires [GNU Octave](http://www.gnu.org/software/octave/download.html). 
 
 Further details on the implementation and some case studies are outlined in [this paper](https://doi.org/10.1088/1361-651X/aa629a). Additional examples are given in the Mote3D [wiki](https://github.com/Mote3D/Mote3D_toolbox/wiki).
 
-#### License
-
-Mote3D is licensed under the [GNU General Public License](https://github.com/Mote3D/Mote3D_toolbox/blob/master/LICENSE.txt).
