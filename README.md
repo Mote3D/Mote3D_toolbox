@@ -39,7 +39,7 @@ If you use Mote3D for your (research) work, please cite the following publicatio
 
 #### Installation
 
-Mote3D requires [GNU Octave](http://www.gnu.org/software/octave/download.html) version 4.2.0 or earlier. Download the [latest release](https://github.com/Mote3D/Mote3D_toolbox/releases) of Mote3D and unpack the folder to the [GNU Octave](http://www.gnu.org/software/octave/download.html) working directory. Additional information on how to set up and run Mote3D can be found in the [Mote3D User Guide](docs/Mote3D%20User%20Guide.pdf).
+Mote3D requires [GNU Octave](http://www.gnu.org/software/octave/download.html) version 4.2.0 or earlier. If a later version is used, additional installation of the [GNU Octave statistics package](https://octave.sourceforge.io/statistics/index.html) may be required. Download the [latest release](https://github.com/Mote3D/Mote3D_toolbox/releases) of Mote3D and unpack the folder to the [GNU Octave](http://www.gnu.org/software/octave/download.html) working directory. Additional information on how to set up and run Mote3D can be found in the [Mote3D User Guide](docs/Mote3D%20User%20Guide.pdf).
 
 #### Documentation
 
