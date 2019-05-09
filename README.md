@@ -3,7 +3,7 @@
 [![doi](https://img.shields.io/badge/doi-10.1088%2F1361--651X%2Faa629a-blue.svg)](http://doi.org/10.1088/1361-651X/aa629a)
 [![latest release](https://img.shields.io/github/release/Mote3D/Mote3D_toolbox.svg)](http://github.com/Mote3D/Mote3D_toolbox/releases/tag/v2.1)
 
-##### Update: new release coming soon.
+##### Update: the current release is [version 2.1](https://github.com/Mote3D/Mote3D_toolbox/releases/tag/v2.1), a new release is coming soon.
 
 #### Description
 
