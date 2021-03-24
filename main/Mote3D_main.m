@@ -81,6 +81,7 @@ close all;
 clear all;
 clc;
 format long;
+pkg load statistics;
 
 ## Specify input variables:
 invar = {"Edge length of cubical domain:",
