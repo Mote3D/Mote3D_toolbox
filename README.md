@@ -29,7 +29,7 @@ microstructure models such as particle diameter distribution and nearest neighbo
 
 #### References
 
-Richter, Henning (2017) *Mote3D: an open-source toolbox for modelling periodic random particulate microstructures.* Modelling Simul. Mater. Sci. Eng. **25** (3), 035011, [doi: 10.1088/1361-651X/aa629a](https://doi.org/10.1088/1361-651X/aa629a) ([elib entry](https://elib.dlr.de/111667/)).
+Richter, Henning (2017) *Mote3D: an open-source toolbox for modelling periodic random particulate microstructures.* Modelling Simul. Mater. Sci. Eng. **25** (3), 035011, [doi: 10.1088/1361-651X/aa629a](https://doi.org/10.1088/1361-651X/aa629a) ([DLR elib entry](https://elib.dlr.de/111667/)).
 
 Richter, Henning (2019) *Random porous microstructure modelling with the Mote3D toolbox – approach and applications.* Sitzung des Arbeitskreises Mikrostrukturmechanik im DGM-Fachausschuss Computersimulation, Mai 2019, DLR Köln.
 
