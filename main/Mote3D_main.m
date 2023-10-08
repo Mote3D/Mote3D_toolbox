@@ -71,7 +71,7 @@
 ## @cindex Mote3D_main
 
 ## Author: Henning Richter <mote3d@quantentunnel.de>
-## Development of Mote3D was supported by Deutsches Zentrum fuer Luft- und Raumfahrt e.V.
+## The development of Mote3D was supported by Deutsches Zentrum fuer Luft- und Raumfahrt e.V.
 ## License: GNU GPLv3+
 ## Created: April 2016
 ## Version: 2.1
