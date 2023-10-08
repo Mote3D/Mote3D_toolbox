@@ -1,4 +1,4 @@
-## Copyright (C) 2016-2017 Henning Richter <mote3d@quantentunnel.de>
+## Copyright (C) 2016-2023 Henning Richter <mote3d@quantentunnel.de>
 ##
 ## This is the main script of the 'Mote3D' toolbox for microstructure modelling.
 ##
@@ -71,7 +71,7 @@
 ## @cindex Mote3D_main
 
 ## Author: Henning Richter <mote3d@quantentunnel.de>
-## The development of Mote3D is supported by Deutsches Zentrum fuer Luft- und Raumfahrt e.V.
+## Development of Mote3D was supported by Deutsches Zentrum fuer Luft- und Raumfahrt e.V.
 ## License: GNU GPLv3+
 ## Created: April 2016
 ## Version: 2.1
